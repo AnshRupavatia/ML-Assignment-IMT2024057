@@ -1,0 +1,9 @@
+data/
+dataset/
+results/
+*_train_var*.csv
+*_test_var*.csv
+.venv/
+__pycache__/
+*.joblib
+holdout_predictions_var*.csv
